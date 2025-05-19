@@ -5,11 +5,16 @@
     font-style: normal;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 /* 기본적인 브라우저 스타일 초기화 */
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+    box-sizing: border-box; 
 }
 
 
